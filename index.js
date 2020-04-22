@@ -1,2 +1,2 @@
 const getTxDetails = require("./getTxDetails");
-getTxDetails("0xa2fe4a518453ad6c5e500f722d16fc70ef389abc16a438451a9414507e32d212");
+getTxDetails("0x4738de5f8c29e1ea31fb2ec0baf9b008afc99d1da6a14c147f2b019d5f70c118");
